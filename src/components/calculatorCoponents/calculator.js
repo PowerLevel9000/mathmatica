@@ -7,12 +7,14 @@ const Calculator = () => {
       <Buttons
         key={btn.id}
         val={btn.value}
-        // type={btn.type}
       />
     ));
   return (
     <div className="calculator">
-      {Button}
+      <div className="screen"><span>0</span></div>
+      <div className="buttons">
+        {Button}
+      </div>
     </div>
   );
 };

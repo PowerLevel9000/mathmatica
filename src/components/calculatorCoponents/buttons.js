@@ -1,6 +1,7 @@
-import PropTypes from 'react';
+// import React from 'react';
+import PropTypes from 'prop-types';
 
-const Buttons = ({ val }) => (
+const Buttons = ({ val = 'button' }) => (
   <button className="button" type={val === '=' ? 'button' : 'submit'}>{val}</button>
 );
 

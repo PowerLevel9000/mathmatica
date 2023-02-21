@@ -73,7 +73,7 @@ const buttonData = [
   },
   {
     id: 19,
-    value: '1',
+    value: '=',
   },
 ];
 
