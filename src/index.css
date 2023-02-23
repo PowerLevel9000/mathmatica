@@ -44,7 +44,6 @@ body {
   background-color: rgba(255, 255, 255, 0.8);
   border-radius: 15px 0 5px 5px;
   height: 20%;
-  padding: 1rem;
   font-size: 30px;
   text-align: right;
 }
@@ -74,4 +73,14 @@ body {
 .button:nth-last-of-type(1):hover,
 .button:nth-of-type(4n):hover {
   background-color: rgb(163, 59, 21);
+}
+
+input {
+  height: 100%;
+  width: 100%;
+  font-size: large;
+  border-radius: 15px 0 5px 5px;
+  outline: none;
+  text-align: end;
+  padding: 1rem;
 }
