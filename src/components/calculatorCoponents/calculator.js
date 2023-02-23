@@ -11,7 +11,11 @@ const Calculator = () => {
     ));
   return (
     <div className="calculator">
-      <div className="screen"><span>0</span></div>
+      <div className="screen">
+        <span>0</span>
+        <span>0</span>
+        <span>0</span>
+      </div>
       <div className="buttons">
         {Button}
       </div>
