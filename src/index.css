@@ -8,13 +8,56 @@ body {
   background: url('./media/math-background.jpg');
   width: 100%;
   height: 100%;
+  color: white;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  font-size: 2rem;
+  padding: 1rem 3rem;
+}
+
+li {
+  list-style: none;
+}
+
+nav a {
+  color: white;
+  text-decoration: none;
+}
+
+.menu {
+  width: 30%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  font-size: 1rem;
 }
 
 #root {
+  min-height: 80vh;
   margin: 0;
   padding: 0;
   height: inherit;
   width: inherit;
+}
+
+.text {
+  display: grid;
+  place-items: center;
+  background-color: rgba(255, 99, 71, 0.779);
+  font-size: 2rem;
+  width: 70%;
+  padding: 2rem;
+  margin: 4rem auto;
+  border-radius: 5rem;
+  color: white;
+  box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.3);
+}
+
+.subhedding {
+  margin: 1rem;
 }
 
 .App {
@@ -25,7 +68,6 @@ body {
 }
 
 .calculator {
-  position: absolute;
   width: 100%;
   max-width: 300px;
   max-width: 700px;
@@ -36,8 +78,28 @@ body {
   border: 1px solid ghostwhite;
   border-radius: 30px 0 15px 15px;
   padding: 1rem;
-  top: 20%;
-  right: 2%;
+  z-index: 1;
+}
+
+.calWrapper {
+  height: 90vh;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding-left: 2rem;
+}
+
+.calc {
+  width: 20%;
+  background-color: rgba(255, 99, 71, 0.749);
+  padding: 2rem;
+  border-radius: 10px;
+  align-self: flex-start;
+  margin-top: 3rem;
+}
+
+.calcHeadding {
+  margin-bottom: 1rem;
 }
 
 .screen {
@@ -83,4 +145,32 @@ input {
   outline: none;
   text-align: end;
   padding: 1rem;
+}
+
+.page_404 {
+  width: 50%;
+  height: 70vh;
+  font-size: 20px;
+  justify-content: space-around;
+  background-color: rgba(255, 99, 71, 0.779);
+  box-shadow: 10px 10px 5px rgba(0, 0, 0, 0.3);
+  margin: 2rem auto;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  border-radius: 5rem;
+}
+
+.wrapper404 {
+  height: 50%;
+  display: inherit;
+  flex-direction: column;
+  justify-content: space-around;
+}
+
+.wrapper404 a {
+  background-color: aqua;
+  width: fit-content;
+  padding: 1rem;
+  border-radius: 5px;
 }
