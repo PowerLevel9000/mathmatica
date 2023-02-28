@@ -11,7 +11,7 @@ function App() {
       <Navigation />
       <Routes>
         <Route element={<div className="background" />} />
-        <Route path="/" element={<Home />} />
+        <Route path="/mathmatica" element={<Home />} />
         <Route path="/calculator" element={<Calculator />} />
         <Route path="/quote" element={<Quote />} />
         <Route path="*" element={<Default />} />
