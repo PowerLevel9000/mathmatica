@@ -3,12 +3,12 @@ import { Link } from 'react-router-dom';
 
 const Navigation = () => (
   <nav className="App-navigation">
-    <div role="nav-main-elements" className="logo">
+    <div role="menuitem" className="logo">
       <Link to="/mathmatica">
         Mathmatica
       </Link>
     </div>
-    <div role="nav-main-elements" className="menu">
+    <div role="menuitem" className="menu">
       <li role="list">
         <Link to="/mathmatica">Home</Link>
       </li>

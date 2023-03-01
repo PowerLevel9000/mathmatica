@@ -1,7 +1,7 @@
 import React from 'react';
 
-const WellcomeCalc = ({role}) => (
-  <div role={role} className="calc">
+const WellcomeCalc = () => (
+  <div role="separator" className="calc">
     <h2 className="calcHeadding">Let&apos;s Do Some Maths!</h2>
     <p>
       Start with some basics calculations

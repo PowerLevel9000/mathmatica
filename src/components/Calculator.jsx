@@ -13,9 +13,10 @@ function Calculator() {
   };
   return (
     <div className="calWrapper">
-      <WellcomeCalc role="welcome-qoute" />
+      <WellcomeCalc />
       <div data-testid="Calculator-wrapper" className="calculator">
-        <div role="screen" className="screen">
+        <div role="banner" className="screen">
+          {/* we can ignore the console warning as we are using input as screen */}
           <input type="text" value={result.next || result.total || '0'} />
           <small>e</small>
         </div>

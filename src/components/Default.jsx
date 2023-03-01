@@ -2,7 +2,7 @@ import React from 'react';
 import { Link } from 'react-router-dom';
 
 const Default = () => (
-  <section role="section" className="page_404">
+  <section role="separator" className="page_404">
     <div className="wrapper404">
       <h3 className="h2">
         Look like you&apos;re lost
