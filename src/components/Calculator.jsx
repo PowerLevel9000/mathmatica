@@ -13,9 +13,9 @@ function Calculator() {
   };
   return (
     <div className="calWrapper">
-      <WellcomeCalc />
-      <div className="calculator">
-        <div className="screen">
+      <WellcomeCalc role="welcome-qoute" />
+      <div data-testid="Calculator-wrapper" className="calculator">
+        <div role="screen" className="screen">
           <input type="text" value={result.next || result.total || '0'} />
           <small>e</small>
         </div>
