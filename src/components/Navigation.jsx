@@ -4,7 +4,7 @@ import { Link } from 'react-router-dom';
 const Navigation = () => (
   <nav className="App-navigation">
     <div className="logo">
-      <Link to="/">
+      <Link to="/mathmatica">
         Mathmatica
       </Link>
     </div>
