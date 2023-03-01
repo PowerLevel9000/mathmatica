@@ -1,6 +1,7 @@
 import React, { useState } from 'react';
 import calculate from './logics/calculate';
 import WellcomeCalc from './WellcomeCalc';
+import operate from './logics/operate';
 
 function Calculator() {
   const [result, setResult] = useState({
@@ -11,6 +12,7 @@ function Calculator() {
   const handleClick = (buttonName) => {
     setResult(calculate(result, buttonName));
   };
+  console.log(operate(5, 4, '+'));
   return (
     <div className="calWrapper">
       <WellcomeCalc />
