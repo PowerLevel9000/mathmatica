@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mathmatica/static/css/main.487a135a.css",
+    "main.js": "/mathmatica/static/js/main.34f9180a.js",
+    "static/js/787.6e7e51d3.chunk.js": "/mathmatica/static/js/787.6e7e51d3.chunk.js",
+    "static/media/math-background.jpg": "/mathmatica/static/media/math-background.92a609fb3239c4ccebf4.jpg",
+    "index.html": "/mathmatica/index.html",
+    "main.487a135a.css.map": "/mathmatica/static/css/main.487a135a.css.map",
+    "main.34f9180a.js.map": "/mathmatica/static/js/main.34f9180a.js.map",
+    "787.6e7e51d3.chunk.js.map": "/mathmatica/static/js/787.6e7e51d3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.487a135a.css",
+    "static/js/main.34f9180a.js"
+  ]
+}
