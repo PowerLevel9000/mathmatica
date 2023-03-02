@@ -8,7 +8,7 @@ const Default = () => (
         Look like you&apos;re lost
       </h3>
       <p>the page you are looking for not avaible!</p>
-      <Link to="/" className="link_404">Go to Home</Link>
+      <Link to="/mathmatica" className="link_404">Go to Home</Link>
     </div>
   </section>
 );

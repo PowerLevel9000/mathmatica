@@ -16,7 +16,7 @@ describe('Quote is important ??', () => {
 
   test('Span should be render', () => {
     render(<Quote />);
-    const span = screen.getByRole("note");
+    const span = screen.getByRole('note');
     expect(span).toBeInTheDocument();
   });
 });
