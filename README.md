@@ -182,11 +182,11 @@ You can deploy this project using:
 - Twitter: [@PowerLevel9002](https://twitter.com/PowerLevel9002?t=AIuSN7mTxk5a_MWpLolEjA&s=09)
 - LinkedIn: [@Adarsh Pathak](https://www.linkedin.com/in/adarsh-pathak-56a831256/)
 
-<!-- 👤 **Martin Karugaba**
+👤 **Shaheryar-Abid**
 
-- GitHub: [@martinkarugaba](https://github.com/martinkarugaba)
-- Twitter: [@martin_karugaba](https://twitter.com/martin_karugaba)
-- LinkedIn: [@martin_karugaba](https://www.linkedin.com/in/martin-karugaba-822442173/) -->
+- GitHub: [@Shaheryar0054](https://github.com/Shaheryar0054)
+- Twitter: [@sharyar0310](https://twitter.com/sharyar0310)
+- LinkedIn: [@shaheryar-abid](https://www.linkedin.com/in/https:/www.linkedin.com/in/shaheryar-abid-8758121b3/)
 
 
 <!-- FUTURE FEATURES -->
@@ -242,6 +242,5 @@ If you like my Project give it a Star ✨🌟
 
 This project is [MIT](https://github.com/PowerLevel9000/mathmatica/blob/dev/LICENSE) licensed.
 
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
