@@ -46,6 +46,7 @@
 > This Project is for making mathmatics calculations and also in future we will update with complex funtions as well 
 
 **Mathematica** is a React-oriented project
+This is a React based project , in this website you can pertform some of the complex mathmetical opreation ion future you will have many features in it, single page application 
 
 <br>
 
