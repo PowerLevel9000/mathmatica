@@ -35,6 +35,7 @@
 This Project is for making mathematics calculations and also in future we will update with complex functions as well 
 
 **Mathematica** is a React-oriented project
+This is a React based project , in this website you can pertform some of the complex mathmetical opreation ion future you will have many features in it, single page application 
 
 <br>
 
@@ -160,6 +161,13 @@ You can deploy this project using:
 - GitHub: [@PowerLevel9000](https://github.com/githubhandle)
 - Twitter: [@PowerLevel9002](https://twitter.com/PowerLevel9002?t=AIuSN7mTxk5a_MWpLolEjA&s=09)
 - LinkedIn: [@Adarsh Pathak](https://www.linkedin.com/in/adarsh-pathak-56a831256/)
+
+👤 **Shaheryar-Abid**
+
+- GitHub: [@Shaheryar0054](https://github.com/Shaheryar0054)
+- Twitter: [@sharyar0310](https://twitter.com/sharyar0310)
+- LinkedIn: [@shaheryar-abid](https://www.linkedin.com/in/https:/www.linkedin.com/in/shaheryar-abid-8758121b3/)
+
 
 <!-- FUTURE FEATURES -->
 
