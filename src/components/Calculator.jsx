@@ -16,7 +16,6 @@ function Calculator() {
       <WellcomeCalc />
       <div data-testid="Calculator-wrapper" className="calculator">
         <div role="banner" className="screen">
-          {/* we can ignore the console warning as we are using input as screen */}
           <input type="text" value={result.next || result.total || '0'} />
           <small>e</small>
         </div>

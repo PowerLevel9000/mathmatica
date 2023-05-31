@@ -1,21 +1,11 @@
 <a name="readme-top"></a>
 <div align="center">
-  <img src="./documentation/adarsh-logo/my-logo.png" alt="logo" width="140"  height="auto" />
-  <!-- <img src="./src/media/martin-logo/my-logo.png" alt="logo" width="140"  height="auto" /> -->
-
+  <img src="./adarsh-logo.png" alt="logo" width="140"  height="auto" />
   <br/>
   <h1><b>Mathematica</b><br><br></h1>
-  
+  <img src="./desktop.png" width='100%'>
  </div>
 
-<!-- <div align="center">
-  <h1>App Mock</h1>
-  <img src="./src/media/app-mocks/all-devices-black.png" alt="logo" width="100%"  height="auto" />
-</div>
-<br>
-<br>
-<br> -->
-<!-- TABLE OF CONTENTS -->
 
 # 📗 Table of Contents
 
@@ -36,14 +26,13 @@
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ ](#faq)
 - [📝 License](#license)
 
 <!-- PROJECT DESCRIPTION -->
 
 # 📖 Mathematica <a name="about-project"></a>
 
-> This Project is for making mathmatics calculations and also in future we will update with complex funtions as well 
+This Project is for making mathematics calculations and also in future we will update with complex functions as well 
 
 **Mathematica** is a React-oriented project
 
@@ -53,7 +42,6 @@
 
 ### Tech Stack <a name="tech-stack"></a>
 
-> In this project I used many skills, tech and libraries
 
 <details>
   <summary>Documentation</summary>
@@ -76,10 +64,9 @@
   </ul>
 </details>
 <details>
-<summary>Frame Work</summary>
+<summary>Frame Work </summary>
   <ul>
-    <li><a href="https://pokeapi.co/"></a></li>
-    <li><a href="https://www.notion.so/microverse/Involvement-API-869e60b5ad104603aa6db59e08150270">React</a></li>
+    <li><a href="https://www.react.dev">React</a></li>
   </ul>
 </details>
 
@@ -90,11 +77,11 @@
 
 ### Key Features <a name="key-features"></a>
 
-> Following features you should observe
+Following features you should observe
 
 - **You can make some calculation**
 - **A home page**
-- **An API Quote machine**
+- **Quote page**
 
 
 
@@ -107,19 +94,12 @@
 > This link will guide you to my project
 
 - [Live Demo Link](https://powerlevel9000.github.io/mathmatica/)
-<!-- - [Loom Video](https://www.loom.com/share/c97562d2fb964f129f4151ee5d42b9a7) -->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
-
->For having local file and project you can fork this repo 
-
->And for making changes you you should follow prerequisites
-
-
 ### Prerequisites
 To edit this project you need:
  - Node.js installed
@@ -145,8 +125,8 @@ Clone this repository to your desired folder:
 
  Execute the following thing:
  
- - Mathematica
- - As complex calculations
+ - Mathematica and for calculation 
+ - and Spa Navigation
 
 
 ### Run tests
@@ -181,18 +161,10 @@ You can deploy this project using:
 - Twitter: [@PowerLevel9002](https://twitter.com/PowerLevel9002?t=AIuSN7mTxk5a_MWpLolEjA&s=09)
 - LinkedIn: [@Adarsh Pathak](https://www.linkedin.com/in/adarsh-pathak-56a831256/)
 
-<!-- 👤 **Martin Karugaba**
-
-- GitHub: [@martinkarugaba](https://github.com/martinkarugaba)
-- Twitter: [@martin_karugaba](https://twitter.com/martin_karugaba)
-- LinkedIn: [@martin_karugaba](https://www.linkedin.com/in/martin-karugaba-822442173/) -->
-
-
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-> Describe 1 - 3 features you will add to the project.
 
 - [ ] **mobile and tablet version**
 - [ ] **improve functionality**
@@ -207,7 +179,7 @@ You can deploy this project using:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/PowerLevel9000/mathmatica/issues)).
+Feel free to check the [issues page](https://github.com/PowerLevel9000/mathmatica/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -221,26 +193,11 @@ If you like my Project give it a Star ✨🌟
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## ❓ FAQ <a name="faq"></a>
-
-> ask questions to be here 
-<!-- 
-- **Question_1** How to close pop up
-
-  - Answer_1 Click outside the popup or cross button
-
-- **Question_2** How to add like 
-
-  - Answer_2 Just Tap on the heart button and wait for awhile -->
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LICENSE -->
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/PowerLevel9000/mathmatica/blob/dev/LICENSE) licensed.
-
-_NOTE: we recommend using the [MIT license](https://choosealicense.com/licenses/mit/) - you can set it up quickly by [using templates available on GitHub](https://docs.github.com/en/communities/setting-up-your-project-for-healthy-contributions/adding-a-license-to-a-repository). You can also use [any other license](https://choosealicense.com/licenses/) if you wish._
+This project is [MIT](./LICENSE) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
